@@ -1,9 +1,6 @@
+let n = prompt("write a number");
+   n = parseInt(n);
 
-
-for(let i=2; i<=10; i=i+2){
+for(let i=n; i<=n*10; i=i+n){
     console.log(i);
- }
-
- for( let i=10; i>=2; i=i-2){
-    console.log(i);
- }
+}
