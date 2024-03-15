@@ -23,3 +23,9 @@ while(i<=6){
     console.log(i);
     i++;
 }
+
+let fruits = ["mango", "litchi", "jackfruit", "guava", "apple"];
+
+for(let i=0; i<fruits.length; i++){
+    console.log(i, fruits[i]);
+}
