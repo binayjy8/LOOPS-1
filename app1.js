@@ -6,3 +6,9 @@ for( let i =0; i<student.length; i++){
         console.log(student[i][j]);
     }
 }
+
+let brands = [ "sg", "gm", "kookaburra", "ss"];
+
+for(brand of brands){
+    console.log(brand);
+}
