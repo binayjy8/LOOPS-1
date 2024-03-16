@@ -7,12 +7,10 @@ for( let i =0; i<student.length; i++){
     }
 }
 
-let brands = [ "sg", "gm", "kookaburra", "ss"];
+let heroes = [[ "sg", "gm", "kookaburra", "ss"], ["devil", "xuv","maruti"]];
 
-for(brand of brands){
-    console.log(brand);
-}
-
-for(name of "Mahendra"){
-    console.log(name);
+for(list of heroes){
+    for(hero of list) {
+        console.log(hero);
+    }
 }
