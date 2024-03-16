@@ -12,3 +12,7 @@ let brands = [ "sg", "gm", "kookaburra", "ss"];
 for(brand of brands){
     console.log(brand);
 }
+
+for(name of "Mahendra"){
+    console.log(name);
+}
