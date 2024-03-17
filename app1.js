@@ -14,3 +14,5 @@ for(list of heroes){
         console.log(hero);
     }
 }
+
+let bat = [ ["df","cf"],["es","kl"]];
