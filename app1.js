@@ -16,3 +16,8 @@ for(list of heroes){
 }
 
 let bat = [ ["df","cf"],["es","kl"]];
+for(total of bat){
+    for(team of total){
+        console.log(team);
+    }
+}
