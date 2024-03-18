@@ -21,3 +21,5 @@ for(total of bat){
         console.log(team);
     }
 }
+
+let scl = [ ["ssvm","sca"],["we", "lk"] ];
