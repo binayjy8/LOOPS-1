@@ -7,7 +7,7 @@ for( let i =0; i<student.length; i++){
     }
 }
 
-let heroes = [ ["sg", "gm", "kookaburra", "ss"], ["devil", "xuv","maruti","tata"] ];
+let heroes = [ ["sg", "gm", "kookaburra", "ss", "sf"], ["devil", "xuv","maruti","tata"] ];
 
 for(list of heroes){
     for(hero of list) {
