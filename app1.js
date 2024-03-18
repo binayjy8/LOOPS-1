@@ -23,3 +23,9 @@ for(total of bat){
 }
 
 let scl = [ ["ssvm","sca"],["we", "lk"] ];
+
+for( number of scl){
+    for(location of number){
+        console.log(location)
+    }
+}
