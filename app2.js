@@ -8,5 +8,9 @@ while(true){
         break;
     }
 
-    
+    if( req == "list"){
+        for(let i =0; i<todo.length; i++){
+            console.log(i, todo[i]);
+        }
+    }
 }
